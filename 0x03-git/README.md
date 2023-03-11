@@ -1,2 +1,2 @@
 # Project: 0x03-Git
-some changes were made
+All things one needs to start using Git
